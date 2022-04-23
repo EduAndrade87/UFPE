@@ -84,7 +84,7 @@ cll.insert('4874695', 'flavinho do pneu', '16', '64', '1.7')
 cll.insert('8745692', 'Alirio', '28', '65', '1.65')
 cll.insert('1254664', 'chaulin matador de porco', '30', '97', '1.4')
 cll.insert('3896547', 'merda', '85', '120', '2.1')
-cll.insert('5763424', 'Loucao de merda', '19','85','1.7')
+cll.insert('5763424', 'Loução da loucura', '19','85','1.7')
 cll.show()
 
 
